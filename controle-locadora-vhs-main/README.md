@@ -82,5 +82,5 @@ A interface ficou moderna, responsiva e de fácil uso.
 
 1. Clone o projeto:
 ```bash
-git clone <https://github.com/andrieli-lopes-web-iii/controle-de-locadora-vhs.git>
+git clone <https://github.com/andrieli-lopes-web-iii/controle-de-locadora-vhs>
 cd controle-de-locadora-vhs
